@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's most excellent Majestie the humble remonstrance, acknoledgement, protestation, and petition of the Roman Catholick clergy of Ireland.</title>
+            <author>Walsh, Peter, 1618?-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06727</idno>
+            <idno type="STC">Wing W643E</idno>
+            <idno type="STC">ESTC R186214</idno>
+            <idno type="EEBO-CITATION">52612479</idno>
+            <idno type="OCLC">ocm 52612479</idno>
+            <idno type="VID">179709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179709)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's most excellent Majestie the humble remonstrance, acknoledgement, protestation, and petition of the Roman Catholick clergy of Ireland.</title>
+                  <author>Walsh, Peter, 1618?-1688.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed: Fr. Peter Walsh of S. Fran. Ord. Reader of div. and procurator of the Rom. Cath. clerg. both sec. &amp; reg. of Ireland [and 23 others].</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Ireland --  Clergy --  Ealry works to 1800.</term>
+               <term>Persecution --  Ireland --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179709:1"/>
+            <head>To the KINGS moſt Excellent Majeſtie</head>
+            <head type="sub">The humble Remonstrance, Acknowledgment, Proteſtation, and Petition of the Roman Catholick Clergy of <hi>Ireland.</hi>
+            </head>
+            <p>YOur Majeſty's faithfull ſubjects, the Roman Catholick Clergie of your Majeſty's Kingdom of <hi>Ireland,</hi> do humbly Repreſent this their preſent ſtate and deplorable Condition:</p>
+            <p>That being intruſted by the undiſpenſable Commiſſion of the King of Kings with the Cure of Souls, and the Care of their Flocks, in order to the Adminiſtration of the <hi>Sacraments,</hi> and Teaching the people that perfect obedience which for Conſcience ſake they are bound to Pay to your Majeſty's Commands, they are Loaden with Calumnies, and perſecuted with Severitie.</p>
+            <p>That being obliged by the Allegeance they owe, and ought to ſwear unto your Majeſty To reveal all conſpiracies, and practices againſt your Perſon and Royall Authority that come to their knowledge, they are themſelves clamour'd againſt as Conſpirators, plotting the de<g ref="char:EOLhyphen"/>ſtruction of the Engliſh among them, without any ground that may give the leaſt colour to ſo fowl a Crime to paſſe for probable, in the judgment of any indifferent Perſon.</p>
+            <p>That their Crimes are as numerous and divers as are the Inventions of their Adverſaries: and becauſe they cannot with freedom appear to juſtifie their Innocency, all the fictions and allegations againſt them are received as undoubted verities: and, which is yet more miſcheivous, the Laity, upon whoſe Conſciences the character of Prieſthood gives them an influence, ſuffer under all the crimes thus falſly imputed to them: it being their adverſa<g ref="char:EOLhyphen"/>ries principal deſign That the Iriſh, whoſe Eſtates they enjoy, ſhould be reputed perſons unfit, and no way worthy any Title to your Majeſty's mercy.</p>
+            <p>That no wood comes amiſs to make Arrows for their Deſtruction; for as if the Roman Catholick Clergie, whom they eſteem moſt Criminal, were, or ought to be a ſociety ſo perfect, as no Evil, no indiſcreet Perſon ſhould be found amongſt them, they are all of them Generally cryed down for any Crime, whether true or feigned, which is imputed to one of them; and as if no words could be ſpoken, no Letter written, but with the com<g ref="char:EOLhyphen"/>mon conſent of all of them, the whole Clergie muſt ſuffer for that which is laid to the charge of any particular Perſon amongſt them.</p>
+            <p>We know what <hi>Odium</hi> all the Catholick Clergie lies under, by reaſon of the Calumnies with which our Tenents in Religion and our Dependence upon the Popes Authority, are aſperſed; And we humbly beg your Majeſty's pardon to vindicate both, by the enſuing Proteſtation, which we make in the ſight of Heaven, and in the preſence of your Majeſty, ſincerely and truly, without Equivocation or mentall reſervation.</p>
+            <p>We do acknowledge and confeſs your Majeſty to be our true and lawfull King, Supream Lord, and rightfull Soveraign of this Realm of <hi>Ireland,</hi> and of all other your Majeſty's Dominions. And therefore we acknowledge our ſelves, to be obliged under pain of Sin to obey your Majeſty in all Civill and Temporall affairs, as much as any other of your Majeſty's Subjects, and as the Laws and rules of Government in this Kingdome do re<g ref="char:EOLhyphen"/>quire at our hands. And that notwithſtanding any power or pretention of the Pope or Sea of <hi>Rome,</hi> or any ſentence or declaration of what kind or quality ſoever, given or to be given by the Pope, His Predeceſſors, or Succeſſors, or by any Authority Spiritual or Temporal proceeding or de<g ref="char:EOLhyphen"/>rived from Him, or his Sea, againſt your Majeſty or your Royall Authority, We will ſtill acknowledge and perform to the uttermoſt of our abilities, our faithfull Loyalty and true Allegeance to your Majeſty. And we openly diſclaim and renounce all forraign Power, be it either Papall or Princely, Spirituall or Temporall, in as much as it may ſeem able, or ſhall pretend to free, diſcharge or abſolve us from this Obligation, or ſhall any way give us leave, or licenſe, to raiſe tumults, bear Arms, or offer any violence to your Majeſty's Perſon, Royall Authority, or to the State or Government. Being all of us ready not only to diſcover and make known, to your Majeſty and to your Miniſters, all the Treaſons made a<g ref="char:EOLhyphen"/>gainſt your Majeſty or Them, which ſhall come to our hearing; but alſo to loſe our Lives in the defence of your Majeſty's Perſon and Royall Au<g ref="char:EOLhyphen"/>thority, and to reſiſt with our beſt endeavours all conſpiracies and attempts againſt your Majeſty, be they framed or ſent under what pretence, or patronized by what forraign power or authority ſoever. And further, we profeſs that all abſolute Princes and Supream Governours, of what Religion ſoever they be, are Gods Lieutenants on Earth, and that obedience is due to them according to the Laws of each Commonwealth re<g ref="char:EOLhyphen"/>ſpectively in all Civil and Temporall affairs. And therefore we do here Proteſt againſt all Doctrine, and Authority to the Contrary. And we do hold it impious and againſt the word of God, to maintain that any private Subject may kill and murther the Anointed of God, his Prince, though of different belief and Religion from his. And we abhorr and deteſt the practice thereof as damnable and wicked.</p>
+            <p>Theſe being the Tenents of our Religion in point of Loyalty and Submiſſion to your Majeſty's Commands, and our Dependence of the Sea of <hi>Rome</hi> no way intrenching upon that perfect Obedience which by our Birth, by all Laws divine and humane we are bound to pay unto your Ma<g ref="char:EOLhyphen"/>jeſty our naturall and Lawfull Soveraigne, We humbly beg, proſtrate at your Majeſty's feet, That you would be pleaſed to protect us from the ſe<g ref="char:EOLhyphen"/>vere perſecution we ſuffer meerly for our profeſſion in Religion: leaving thoſe that are or hereafter ſhall be Guilty of other Crimes (and there have been ſuch in all times as well by their Pens as by their Actions) to the puniſhment preſcribed by the Law.</p>
+            <list>
+               <item>Fr. <hi>Oliver Darcy,</hi> Biſhop of <hi>Dromore.</hi> 
+               </item>
+               <item>Fr. George Dillon of S . Fran. Ord. Guardian of the Iriſh Franciſcans at Paris.</item>
+               <item>Fr. <hi>Philip Rocb</hi> of <hi>S. Fran.</hi> Ord. Reader Gen. of Divinity.</item>
+               <item>Fr. <hi>Anthony Gearnon</hi> of <hi>S. Fran.</hi> Ord. one of Her Majeſties the Queen Mother's Chapl.</item>
+               <item>Fr. <hi>John Everard</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Preac.</item>
+               <item>Fr. <hi>Anthony Naſh</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Preac.</item>
+               <item>Fr. <hi>William Lynch</hi> of <hi>S. Fran.</hi> Ord. Conf.</item>
+               <item>Fr. <hi>Nicholas Sall</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Preac.</item>
+               <item>
+                  <hi>James Cuſack.</hi> Doctor of Divinity</item>
+               <item>
+                  <hi>Cornellus Fogorry</hi> Protonor Apoſt. and Doctor of the Civil and Canon Law.</item>
+               <item>
+                  <hi>Daniel Dougan,</hi> Divine.</item>
+               <item>Fr. <hi>Henry Gibbon</hi> of <hi>S. Aug.</hi> Ord. Conf. &amp; Preac.</item>
+               <item>Fr. <hi>Redmund Moore</hi> of <hi>S. Dom.</hi> Ord. Conf. &amp; Pr.</item>
+               <item>Bartholomew Bellew.</item>
+               <item>Denis Fitz Ranna.</item>
+               <item>Bartholomew Flemming.</item>
+               <item>Fr. <hi>Redmund Caron</hi> of <hi>S. Fran.</hi> Ord. Reader ju<g ref="char:EOLhyphen"/>bilate of Divinity.</item>
+               <item>Fr. <hi>Simon Wafre</hi> of the <hi>ſame Order,</hi> Reader of Divinity.</item>
+               <item>F. <hi>James Caverley</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Pr.</item>
+               <item>Fr. <hi>John fitz Gerrald</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Pr.</item>
+               <item>Fr. <hi>Theobald Burk</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Pr.</item>
+               <item>Fr. <hi>Matthew Duff</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Proc.</item>
+               <item>Fr. <hi>Peter Geogbegan</hi> of <hi>S. Fran.</hi> Ord. Conf. &amp; Pr.</item>
+               <item>Fr. <hi>Peter Walſh</hi> of <hi>S. Fran.</hi> Ord. Reader of Div. and Procurator of the Rom. Cath. Clerg. both Sec. &amp; Reg. of <hi>Ireland.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <head>An Advertiſement to the Reader.</head>
+            <p>THe Above <hi>Remonſtrance,</hi> &amp;c. having been ſent out of <hi>Ireland,</hi> ſome five weeks paſt, from the poor diſtreſſed Eccleſiaſticks there of the Roman Communion, to be preſented to His Majeſty in their behalf; but imperfect, or unauthentick, as not being ſign'd by any hand, in regard they that ſent it did not reflect on the neceſſity of Subſcriptions; Such of the Iriſh Clergie of that Church, as were then at London, underſtanding His Majeſty would further expect the Paper, and ſpecially the <hi>Proteſtation</hi> therein contained, ſhould be own'd by all concern'd in it, and by their proper Signatures, or by the Signatures of ſuch at leaſt, as being ſufficiently Commiſſioned by them, would undertake for the reſt in this matter; and having ſeriouſly debated the tenour and true meaning of all the ſaid <hi>Remonſtrance, Acknowledgment, Proteſtation,</hi> and <hi>Petition,</hi> thought it part of their Duty to His Majeſty, and Piety to their Country, and Well-wiſhes to all Roman Catholicks whatſoever, but more eſpecially to thoſe under His Majeſty's Government, To give a beginning here, as accordingly they did on the 11. and 15. of Jan. 1661. to the Subscriptions: and, as well in behalf of themſelves, as of all the reſt of the ſaid Iriſh Clergie, untill their concurrence likewiſe by ſubſcriptions come, To own all the a<g ref="char:EOLhyphen"/>bove Remanſtrance, <hi>Acknowledgment, Proteſtation,</hi> and <hi>Petition,</hi> as to all parts and clauſes thereof: and thereby Endeavour, as much as in them lyes, To aſſure His Majeſty of their faithfull Allegeance, Vindicate their holy Religion from the ſcandal of unwarrantable Tenets, and Move in His Ma<g ref="char:EOLhyphen"/>jeſty's Royal breſt that pitty which the moſt forlorn, afflicted, and oppreſſed people this day in Europe, the Roman Catholicks of <hi>Ireland</hi> im<g ref="char:EOLhyphen"/>plore; the ſaid Catholicks being nevertheleſſe very certain their ſufferings proceed not from His Majeſty's direction or knowledge. Behold in brief the reaſons why this <hi>Remonſtrance</hi> &amp;c. has been ſubſcribed, as above, by theſe few Gentlemen of that Clergie, whoſe names you ſee; the reſt being expected as ſoon as the diſtance of places, their diſperſion into many forraign Countryes, and the grievous perſecution of the remainders at home yet in <hi>Ireland</hi> (Some, and theſe even by dozens and ſcores, and for many years many of them conſined in the ſeveral Provinces to pub<g ref="char:EOLhyphen"/>lick Goales, Marſhalſeas and Priſons of that Kingdome; and not a few, now of late, to cloſe reſtraint, and new additions dayly made; others flit<g ref="char:EOLhyphen"/>ing and roaming to hide themſelves in Mountains, Woods, Rocks, Bogs, in Caves and horrid Wilderneſſes, and ſearched for notwithſtanding day and night, yea hunted and chaſed like wild beaſts; all weary of, and loathing even life it ſelf: All theſe, I ſay nevertheleſſe, being expected, with thoſe others in other countreys, as ſoon as their condition ſhall permit, or) ſhall give them the opportunity of ſeeing this Paper, and tranſmiting their ſignatures. Of all which, and of what elſe may be neceſſary, as relating to this matter, you ſhall have ſuddenly a more ample account in another Paper; as likewiſe thoſe other rational Inducements (with Anſwers to ſuch expreſſions as have been made by ſome (not againſt the Catholickneſſe of the Proteſtation in it ſelf, or Lawfulneſſe to Subſcribe it, but againſt the neceſſity or expediency of Subſcriptions by Them) which may be ſufficient to perſwade every one of that Iriſh Clergie to Subſcription without further delay. An Invitation moreover, to the Roman Catholick Churchmen, both Secular and Regular of <hi>England Wales</hi> and <hi>Scotland</hi> To Joyn, by their Subſcriptions alſo, in the foreſaid or like Proteſtation. Which dutiful and charitable Concurrence of all, as well of thoſe as theſe, is in the mean time here, and in the name of the <hi>above Subſcribed,</hi> moſt humbly and moſt earneſtly deſired,</p>
+            <closer>
+               <dateline>From London, <date>this 3. of Feb. 1661,</date>
+               </dateline>
+               <signed>by <hi>Fr. P. W.</hi> Procurator of the ſaid Roman Catholick Clergie of <hi>Ireland.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
